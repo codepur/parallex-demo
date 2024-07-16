@@ -1,0 +1,256 @@
+// <=============================Font Sizes==================================>
+.size9 {
+    font-size: 9px;
+}
+
+.size10 {
+    font-size: 10px;
+}
+
+.size12 {
+    font-size: 12px;
+}
+
+.size14 {
+    font-size: 14px;
+}
+
+.size16 {
+    font-size: 16px;
+}
+
+.size18 {
+    font-size: 18px;
+}
+
+.size20 {
+    font-size: 20px;
+}
+
+.size22 {
+    font-size: 22px;
+}
+
+.size24 {
+    font-size: 24px;
+}
+
+.size26 {
+    font-size: 26px;
+}
+
+.size28 {
+    font-size: 28px;
+}
+
+.size29 {
+    font-size: 29px;
+}
+
+.size30 {
+    font-size: 30px;
+}
+
+.size32 {
+    font-size: 32px;
+}
+
+.size34 {
+    font-size: 34px;
+}
+
+.size36 {
+    font-size: 36px;
+}
+
+.size38 {
+    font-size: 38px;
+}
+
+.size40 {
+    font-size: 40px;
+}
+
+.size42 {
+    font-size: 42px;
+}
+
+.size44 {
+    font-size: 44px;
+}
+
+.size46 {
+    font-size: 46px;
+}
+
+.size48 {
+    font-size: 48px;
+}
+
+.size50 {
+    font-size: 50px;
+}
+
+.size54 {
+    font-size: 54px;
+}
+
+.size56 {
+    font-size: 56px;
+}
+
+.size58 {
+    font-size: 58px;
+}
+
+// <=============================Font Colors==================================>
+
+.newFontLink {
+    color: #075DC1;
+}
+
+.fontBlack {
+    color: var(--Black-1, #021212);
+}
+
+.fontWhite {
+    color: #FFF;
+}
+
+.fontGray {
+    color: var(--Body-text, #3C4959);
+}
+
+.fontGray2 {
+    color: #A6A6A6;
+}
+
+.fontGray3 {
+    color: #858382; //password setting of profile dropdown
+}
+
+.fontGray4 {
+    color: #595962
+}
+
+.homeNavBlack {
+    color: #141D3E;
+}
+
+.homeNavGray {
+    color: #5D5B5B;
+}
+
+.themeColor {
+    color: var(--Primary1, #16ACA9);
+}
+
+.themeBg {
+    background-color: var(--Primary1, #16ACA9) !important;
+}
+
+// <=============================Font Weights==================================>
+
+.weight4 {
+    font-weight: 400;
+}
+
+.weight5 {
+    font-weight: 500;
+}
+
+.weight6 {
+    font-weight: 600;
+}
+
+.weight7 {
+    font-weight: 700;
+}
+
+.weight8 {
+    font-weight: 800;
+}
+
+.weight9 {
+    font-weight: 900;
+}
+
+// <=============================Font Line Heights==================================>
+
+.lh16 {
+    line-height: 16px;
+}
+
+.lh18 {
+    line-height: 18px;
+}
+
+.lh19 {
+    line-height: 19.6px;
+}
+
+.lh21 {
+    line-height: 21.7px;
+}
+
+.lh24 {
+    line-height: 24px;
+}
+
+.lh279 {
+    line-height: 27.9px;
+}
+
+.lh30 {
+    line-height: 30px;
+}
+
+.lh32 {
+    line-height: 32px;
+}
+
+.lh42 {
+    line-height: 42px;
+}
+
+.lh45 {
+    line-height: 45px;
+}
+
+.lh54 {
+    line-height: 54px;
+}
+
+.lh81 {
+    line-height: 81px;
+}
+
+// <=============================Font Letter spacing==================================>
+
+.lsdc27 {
+    letter-spacing: 0.27px;
+}
+
+.ls28 {
+    letter-spacing: 0.028px;
+}
+
+.ls32 {
+    letter-spacing: 0.032px;
+}
+
+// <==============================Opacity================================================>
+
+.opacity6 {
+    opacity: 0.6;
+}
+
+// <============================font family=============================================>
+
+.interTight {
+    font-family: "Inter Tight", sans-serif !important;
+}
+
+.footerGrey {
+    color: #CCCFD6;
+}
