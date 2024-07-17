@@ -1,5 +1,4 @@
 'use client'
-import Image from 'next/image';
 import styles from './landing.module.scss';
 import { useTransform, motion, useScroll } from 'framer-motion';
 import { useRef } from 'react';
@@ -30,7 +29,7 @@ const Card = ({ i, title, description, src, url, color, progress, range, targetS
                     <div className={styles.imageContainer}>
                         <motion.div
                             className={styles.inner}
-                            style={{ scale: imageScale }}
+                        // style={{ scale: imageScale }}
                         >
                             <img
                                 fill
